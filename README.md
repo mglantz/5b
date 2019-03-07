@@ -16,6 +16,24 @@
 
 ![Grunderna i ett dataprogram](bilder/datorprogram.png)
 
+## Hur skriver man ett datorprogram?
+
+Datorprogram består av programkod (vanlig text som ser lite kryptisk ut). Programkoden berättar för datorn hur programmet fungerar. Precis som i vanligt skrivet språk, så finns det också olika programmeringsspråk, som alla ser lite olika ut.
+Nedanför är exempel på hur man får dataprogram att skriva "Hejsan!", men i tre olika programmeringsspråk.
+```
+echo Hejsan!
+```
+```
+printf("Hejsan!");
+```
+```
+print "Hejsan"
+```
+
+## När något går fel i ett datorprogram
+![Snapchat](bilder/filen.png)
+När ett dataprogram inte fungerar som det ska, så säger man ofta att programmet har en `bugg`. Det är då för att personen som skrivit programmet har skrivit fel. Det är vanligt att ett datorprogram är tiotusentals rader med text och en del program är flera miljoner rader med text, så det är inte konstigt att det kan bli fel.
+
 ## Exempel från ett känt datorprogram
 
 ![Snapchat](bilder/snap-ghost-yellow.png)
