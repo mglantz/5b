@@ -76,31 +76,40 @@ sh ./mittprogram
 4. Se hur ditt datorprogram skrev ut det du bestämde på skärmen! Hurra :smile:
 
 ## Från och med nu så får du fritt pröva att skriva lite olika dataprogram. 
-Nedan så följer lite exempel som du kan pröva:
+Nedan så följer lite exempel som du kan pröva.
 
-* Ett datorprogram som skriver lite olika texter
+:exclamation: Det är lätt att göra fel. Om det står något konstigt på skärmen, så pröva att skriva om texten igen. 
+
+### Ett datorprogram som skriver lite olika texter
 ```
+cat >olika
 echo Hejsan alla
 echo Jag vet inte vad jag ska skriva här!
 echo Här kommer ännu mer text
 ```
+Skriv sedan: `ctrl+c` och `sh ./olika`.
 
-* Ett datorprogram som skriver en text flera gånger
+### Ett datorprogram som skriver en text flera gånger
 ```
+cat >flera
 for i in {1..100}
 do
 echo Är det inte rast än?
 done
 ```
+Skriv sedan: `ctrl+c` och `sh ./flera`.
 
-* Ett datorprogram som frågar efter vad du gillar
+### Ett datorprogram som frågar efter vad du gillar
 ```
+cat >fråga
 read -p "Vad gillar du mest?" SVAR
 echo Jag gillar också $SVAR
 ```
+Skriv sedan: `ctrl+c` och `sh ./fråga`.
 
-* Mer advancerat: Ett datorprogram som frågar efter vad du gillar och om du gillar glass, så blir programmet extra glatt, annars inte...
+### Mer advancerat: Ett datorprogram som frågar efter vad du gillar och om du gillar glass, så blir programmet extra glatt, annars inte...
 ```
+cat >advancerat
 read -p "Vad gillar du? " SVAR
 if [ "$SVAR" == "glass" ]
 then
@@ -109,5 +118,6 @@ else
 echo Jag gillar inte $SVAR :(
 fi
 ```
+Skriv sedan: `ctrl+c` och `sh ./advancerat`.
 
 * Överkurs: Hitta på ett helt egna datorprogram :smile:
