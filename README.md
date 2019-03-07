@@ -1,5 +1,7 @@
 # Diskussion
-Vad är ett datorprogram?
+Diskussion i klassen.
+
+## Vad är ett datorprogram?
 
 [Gå hit för att se svaret](svar/svar1.md)
 
@@ -13,12 +15,7 @@ Ge exempel på olika saker som fungerar pga datorprogram?
 
 # Grunderna i ett vanligt datorprogram
 
-Grunderna i ett vanligt datorprogram är att ett program:
-* Tar emot något
-* Gör något med det som tagits emot
-* Det skickar ut något
-
-![Det här kan hända](bilder/datorprogram.png)
+![Grunderna i ett dataprogram](bilder/datorprogram.png)
 
 # Exempel på datorprogram
 
