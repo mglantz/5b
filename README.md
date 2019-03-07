@@ -1,4 +1,5 @@
-# Kapitel 1: Teori om datorprogram
+# Kapitel 1: Diskussion om datorprogram.
+Diskussion i klassen.
 
 ## Vad är ett datorprogram?
 
@@ -11,6 +12,9 @@
 ## Kan du ge exempel på olika saker som fungerar tack vare datorprogram?
 
 [Gå hit för att se svaret](svar/svar3.md)
+
+# Kapitel 2: Teori om datorprogram.
+Lärarledd genomgång i klassen.
 
 ## Grunderna i ett vanligt datorprogram
 
@@ -51,7 +55,7 @@ Mer i detalj, det som händer är att:
 
 ![Hur fungerar Snapchat](bilder/hurfunkarsnapchat.png)
 
-# Kapitel 2: Skriv ditt eget datorprogram!
+# Kapitel 3: Skriv ditt eget datorprogram!
 
 ## Anslut till datorn som du ska programmera på
 1. Du har fått ett papper där det står adressen till en webbsida. Gå till den.
