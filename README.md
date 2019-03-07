@@ -92,4 +92,4 @@ echo Jag gillar inte $SVAR :(
 fi
 ```
 
-* Överkurs: Hitta på ett helt eget datorprogram :smile:
+* Överkurs: Hitta på ett helt egna datorprogram :smile:
