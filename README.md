@@ -40,4 +40,19 @@ Mer i detalj, det som händer är att:
 
 ![Hur man loggar in](bilder/loggain.png)
 
+3. Klicka på menyn till vänster som läser `terminal`. När du gjort det så kommer det se ut som på bilden nedanför.
+![Hur man loggar in](bilder/skrivprogram.png)
+
+4. Nu är vi redan att skriva vårt första datorprogram, det är ett enkelt program som skriver en bit text. I den svarta delen av skärmen skriv nedan:
+```
+cat >mittprogram
+echo Det är skoj att gå i skolan
+```
+5. Tryck sedan `ctrl+c`.
+
+6. Skriv nedan på skrämen för att köra ditt dataprogram.
+```
+sh ./mittprogram
+```
+7. Se hur ditt datorprogram skrev ut det du bestämde på skärmen! Hurra :smile:
 
