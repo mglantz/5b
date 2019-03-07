@@ -89,7 +89,7 @@ echo Här kommer ännu mer text
 ```
 Skriv sedan: `ctrl+c` och `sh ./olika`.
 
-### Ett datorprogram som skriver en text flera gånger
+### Ett datorprogram som skriver en text 100 gånger
 ```
 cat >flera
 for i in {1..100}
