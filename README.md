@@ -68,7 +68,7 @@ echo Här kommer ännu mer text
 ```
 
 * Ett datorprogram som skriver en text flera gånger
-````
+```
 for i in {1..100}
 do
 echo Är det inte rast än?
