@@ -60,6 +60,7 @@ Mer i detalj, det som händer är att:
 ![Hur man loggar in](bilder/loggain.png)
 
 3. Klicka på menyn till vänster som läser `terminal`. När du gjort det så kommer det se ut som på bilden nedanför.
+
 ![Hur man loggar in](bilder/skrivprogram.png)
 
 ## Skriv ditt första datorprogram
