@@ -19,7 +19,7 @@
 ## Hur skriver man ett datorprogram?
 
 Datorprogram består av programkod (vanlig text som ser lite kryptisk ut). Programkoden berättar för datorn hur programmet fungerar. Precis som i vanligt skrivet språk, så finns det också olika programmeringsspråk, som alla ser lite olika ut.
-Nedanför är exempel på hur man får dataprogram att skriva "Hejsan!", men i tre olika programmeringsspråk.
+Nedanför är exempel på hur man får datorprogram att skriva "Hejsan!", men i tre olika programmeringsspråk.
 ```
 echo Hejsan!
 ```
@@ -33,7 +33,7 @@ print "Hejsan"
 ## När något går fel i ett datorprogram
 ![När något går fel i ett datorprogram](bilder/filen.jpg)
 
-När ett dataprogram inte fungerar som det ska, så säger man ofta att programmet har en `bugg`. Det är då för att personen som skrivit programmet har skrivit fel. Det är vanligt att ett datorprogram är tiotusentals rader med text och en del program är flera miljoner rader med text, så det är inte konstigt att det kan bli fel.
+När ett datorprogram inte fungerar som det ska, så säger man ofta att programmet har en `bugg`. Det är då för att personen som skrivit programmet har skrivit fel. Det är vanligt att ett datorprogram är tiotusentals rader med text och en del program är flera miljoner rader med text, så det är inte konstigt att det kan bli fel.
 
 ## Exempel från ett känt datorprogram
 
@@ -62,7 +62,7 @@ Mer i detalj, det som händer är att:
 3. Klicka på menyn till vänster som läser `terminal`. När du gjort det så kommer det se ut som på bilden nedanför.
 ![Hur man loggar in](bilder/skrivprogram.png)
 
-## Skriv ditt första dataprogram
+## Skriv ditt första datorprogram
 1. Nu är vi redan att skriva vårt första datorprogram, det är ett enkelt program som skriver en bit text. I den svarta delen av skärmen skriv nedan:
 ```
 cat >mittprogram
