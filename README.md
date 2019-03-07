@@ -31,4 +31,6 @@ Mer i detalj, det som händer är att:
 * Snapchatprogrammet ser till att din bild ser extra skoj ut eller lägger till emojis i din text.
 * Snapchatprogrammet skickar meddelandet till din kompis.
 
+![Hur fungerar Snapchat](bilder/hurfungerarsnapchat.png)
+
 
