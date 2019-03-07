@@ -8,7 +8,7 @@ Kan du ge exempel på olika datorprogram?
 
 [Gå hit för att se svaret](svar/svar2.md)
 
-Ge exempel på olika saker som fungerar pga datorprogram?
+Kan du ge exempel på olika saker som fungerar tack vare datorprogram?
 
 [Gå hit för att se svaret](svar/svar3.md)
 
