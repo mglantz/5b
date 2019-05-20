@@ -97,16 +97,26 @@ echo Här kommer ännu mer text
 ```
 Skriv sedan: `ctrl+c` och `sh ./olika`.
 
-### Ett datorprogram som skriver en text 100 gånger
-:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`. Du skriver `{` genom att trycka `AltGr+7`. Du skriver `}` genom att trycka `AltGr+0`.
+### Ett datorprogram som skriver en text 5 gånger
+:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
 ```
 cat >flera
-for i in {1..100}
+for i in 1 2 3 4 5
 do
 echo Är det inte rast än?
 done
 ```
 Skriv sedan: `ctrl+c` och `sh ./flera`.
+
+### Ett datorprogram som skriver en text hela tiden, tills du trycker `ctrl+c`
+```
+cat >evigt
+while true
+do
+echo Är det inte rast än?
+sleep 1
+done
+```
 
 ### Ett datorprogram som frågar efter vad du gillar
 :exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`. Du skriver `"` genom att trycka `SHIFT+2`. Du skriver `$` genom att trycka `AltGr+4`.
