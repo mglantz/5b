@@ -87,6 +87,7 @@ Nedan så följer lite exempel som du kan pröva.
 :exclamation: Det är lätt att göra fel. Om det står något konstigt på skärmen, så pröva att skriva om texten igen. 
 
 ### Ett datorprogram som skriver lite olika texter
+:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
 ```
 cat >olika
 echo Hejsan alla
@@ -96,6 +97,7 @@ echo Här kommer ännu mer text
 Skriv sedan: `ctrl+c` och `sh ./olika`.
 
 ### Ett datorprogram som skriver en text 100 gånger
+:exclamation: Du skriver `{` genom att trycka `AltGr+7`. Du skriver `}` genom att trycka `AltGr+0`.
 ```
 cat >flera
 for i in {1..100}
@@ -106,6 +108,7 @@ done
 Skriv sedan: `ctrl+c` och `sh ./flera`.
 
 ### Ett datorprogram som frågar efter vad du gillar
+:exclamation: Du skriver `"` genom att trycka `SHIFT+2`. Du skriver `$` genom att trycka `AltGr+4`.
 ```
 cat >fråga
 read -p "Vad gillar du mest?" SVAR
@@ -114,6 +117,7 @@ echo Jag gillar också $SVAR
 Skriv sedan: `ctrl+c` och `sh ./fråga`.
 
 ### Mer advancerat: Ett datorprogram som frågar efter vad du gillar och om du gillar glass, så blir programmet extra glatt, annars inte...
+:exclamation: Du skriver `[` genom att trycka `AltGr+8`. Du skriver `]` genom att trycka `AltGr+9`.
 ```
 cat >advancerat
 read -p "Vad gillar du? " SVAR
