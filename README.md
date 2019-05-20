@@ -59,11 +59,18 @@ Mer i detalj, det som händer är att:
 
 ## Anslut till datorn som du ska programmera på
 1. Du har fått ett papper där det står adressen till en webbsida. Gå till den.
-2. Logga in med användarnamnet `student` och lösenordet `ribersborg` och klicka på knappen som läser `Log in`, som på bilden nedanför.
 
-![Hur man loggar in](bilder/loggain.png)
+2. Klicka på `Advanced` eller `Advancerat` som på bilden nedan.
+![Hur man loggar in](bilder/first.png)
 
-3. Klicka på menyn till vänster som läser `terminal`. När du gjort det så kommer det se ut som på bilden nedanför.
+3. Klicka på `Fortsätt till...` eller `Proceed to...` som på bilden nedan.
+![hur man loggar in](bilder/second.peng)
+
+4. Logga in med användarnamnet `student` och lösenordet `ribersborg` och klicka på knappen som läser `Log in`, som på bilden nedanför.
+
+![Hur man loggar in](bilder/third.png)
+
+5. Klicka på menyn till vänster som läser `terminal`. När du gjort det så kommer det se ut som på bilden nedanför.
 
 ![Hur man loggar in](bilder/skrivprogram.png)
 
