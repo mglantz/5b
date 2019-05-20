@@ -69,6 +69,7 @@ Mer i detalj, det som händer är att:
 
 ## Skriv ditt första datorprogram
 1. Nu är vi redan att skriva vårt första datorprogram, det är ett enkelt program som skriver en bit text. I den svarta delen av skärmen skriv nedan:
+:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
 ```
 cat >mittprogram
 echo Det är skoj att gå i skolan
@@ -97,6 +98,7 @@ echo Här kommer ännu mer text
 Skriv sedan: `ctrl+c` och `sh ./olika`.
 
 ### Ett datorprogram som skriver en text 100 gånger
+:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
 :exclamation: Du skriver `{` genom att trycka `AltGr+7`. Du skriver `}` genom att trycka `AltGr+0`.
 ```
 cat >flera
@@ -108,6 +110,7 @@ done
 Skriv sedan: `ctrl+c` och `sh ./flera`.
 
 ### Ett datorprogram som frågar efter vad du gillar
+:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
 :exclamation: Du skriver `"` genom att trycka `SHIFT+2`. Du skriver `$` genom att trycka `AltGr+4`.
 ```
 cat >fråga
@@ -117,6 +120,8 @@ echo Jag gillar också $SVAR
 Skriv sedan: `ctrl+c` och `sh ./fråga`.
 
 ### Mer advancerat: Ett datorprogram som frågar efter vad du gillar och om du gillar glass, så blir programmet extra glatt, annars inte...
+:exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
+:exclamation: Du skriver `"` genom att trycka `SHIFT+2`. Du skriver `$` genom att trycka `AltGr+4`.
 :exclamation: Du skriver `[` genom att trycka `AltGr+8`. Du skriver `]` genom att trycka `AltGr+9`.
 ```
 cat >advancerat
