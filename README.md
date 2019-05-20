@@ -59,7 +59,7 @@ Mer i detalj, det som händer är att:
 
 ## Anslut till datorn som du ska programmera på
 1. Du har fått ett papper där det står adressen till en webbsida. Gå till den.
-2. Logga in med användarnamnet `student` och lösenordet `superlätt` och klicka på knappen som läser `Log in`, som på bilden nedanför.
+2. Logga in med användarnamnet `student` och lösenordet `ribersborg` och klicka på knappen som läser `Log in`, som på bilden nedanför.
 
 ![Hur man loggar in](bilder/loggain.png)
 
