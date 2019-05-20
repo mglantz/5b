@@ -64,7 +64,7 @@ Mer i detalj, det som händer är att:
 ![Hur man loggar in](bilder/first.png)
 
 3. Klicka på `Fortsätt till...` eller `Proceed to...` som på bilden nedan.
-![hur man loggar in](bilder/second.peng)
+![hur man loggar in](bilder/second.png)
 
 4. Logga in med användarnamnet `student` och lösenordet `ribersborg` och klicka på knappen som läser `Log in`, som på bilden nedanför.
 
