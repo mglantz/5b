@@ -79,7 +79,7 @@ Mer i detalj, det som händer är att:
 :exclamation: Du skriver `>` genom att trycka `SHIFT + knappen med < > och | på sig`.
 ```
 cat >mittprogram
-echo Det är skoj att gå i skolan
+echo Hej världen, detta är mitt första datorprogram
 ```
 2. Tryck sedan `ctrl+c`.
 
